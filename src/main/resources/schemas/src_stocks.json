@@ -1,0 +1,23 @@
+{
+  "type" : "struct",
+  "fields": [
+    {
+      "name": "company",
+      "type": "string",
+      "nullable": true,
+      "metadata":{}
+    },
+    {
+      "name": "date",
+      "type": "string",
+      "nullable": true,
+      "metadata":{}
+    },
+    {
+      "name": "value",
+      "type": "double",
+      "nullable": true,
+      "metadata":{}
+    }
+  ]
+}
